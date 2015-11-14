@@ -1,0 +1,6 @@
+c:\users\johny\documents\visual studio 2013\Projects\TestForWork\TestForWork\bin\Debug\TestForWork.exe.config
+c:\users\johny\documents\visual studio 2013\Projects\TestForWork\TestForWork\bin\Debug\TestForWork.exe
+c:\users\johny\documents\visual studio 2013\Projects\TestForWork\TestForWork\bin\Debug\TestForWork.pdb
+c:\users\johny\documents\visual studio 2013\Projects\TestForWork\TestForWork\obj\Debug\TestForWork.exe
+c:\users\johny\documents\visual studio 2013\Projects\TestForWork\TestForWork\obj\Debug\TestForWork.pdb
+C:\Users\Johny\Documents\Visual Studio 2013\Projects\TestForWork\TestForWork\obj\Debug\TestForWork.csprojResolveAssemblyReference.cache
